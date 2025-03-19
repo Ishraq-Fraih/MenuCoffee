@@ -18,7 +18,7 @@ Scanner for User Input Handling
 🔹 Database Integration – Store orders and menu data persistently.
 🔹 Multiple Payment Options – Simulate online payment methods.
 
-🔗 GitHub Repository: [Add your GitHub link here]
+🔗 GitHub Repository: [https://github.com/Ishraq-Fraih/MenuCoffee]
 
 📌 Why This Project?
 This project demonstrates data structures (trees), user input handling, and Java programming in a practical ordering system.
